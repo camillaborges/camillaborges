@@ -1,8 +1,8 @@
 ### Hello World!👋
 
-I'm Camilla, a Junior Front-end Developer seeking knowledge every day. 👩‍💻 
+I'm Camilla, a Full Stack Developer seeking knowledge every day. 👩‍💻 
 
-You will have access to some of my latest projects. Please, feel free to send me suggestions, critics, and improvements.
+You will have access to some of my latest projects. Please, feel free to send me suggestions and improvements.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camillaborges/)](https://www.linkedin.com/in/camillaborges/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:camillaborgeshelena@gmail.com)](mailto:camillaborgeshelena@gmail.com)
